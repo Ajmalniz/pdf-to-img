@@ -1,0 +1,11 @@
+[project]
+name = "pdf-to-img"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pillow>=11.1.0",
+    "pymupdf>=1.25.5",
+    "streamlit>=1.44.1",
+]
